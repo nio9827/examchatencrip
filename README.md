@@ -1,0 +1,2 @@
+# examchatencrip
+chat_encriptado
